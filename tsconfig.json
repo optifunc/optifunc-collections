@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "lib": ["ES2016"],
+      "outDir": "dist",
+    },
+    "include": ["src/**/*.ts"]
+}
