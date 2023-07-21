@@ -1,6 +1,6 @@
 {
   "name": "optifunc-collections",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A .NET-like collections library for JS/TS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
